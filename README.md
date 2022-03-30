@@ -62,7 +62,7 @@ A Web application where customers order different sizes of pizzas with one or mo
 ## Screenshot
 <img src="https://github.com/DynastyElvis/Amina-Mohammed-eComerce-shop/blob/main/Screenshot%20from%202022-03-30%2011-53-49.png" width="800px" height="400px">
 
-[LIVE LINK >>](https://dynastyelvis.github.io/PIZZA-Palace/)
+[LIVE LINK >>](https://dynastyelvis.github.io/Amina-Mohammed-eComerce-shop/)
 
 
 
