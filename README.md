@@ -97,7 +97,7 @@ https://www.codegrepper.com/app/index.php
 
 ## Licence
 
-[MIT LICENCE](https://github.com/DynastyElvis/PIZZA-Palace/blob/main/LICENSE)
+[MIT LICENCE](https://github.com/DynastyElvis/Amina-Mohammed-eComerce-shop/blob/main/LICENSE)
 
 2022
 
