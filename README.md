@@ -50,9 +50,9 @@ A Web application where customers order different sizes of pizzas with one or mo
 ## Installation
 * Open Terminal {Ctrl+Alt+T}
 
-* git clone ```https://github.com/DynastyElvis/PIZZA-Palace```
+* git clone ```https://github.com/DynastyElvis/Amina-Mohammed-eComerce-shop```
 
-* cd ```PIZZA Palace```
+* cd ```Amina-Mohammed-eComerce-shop```
 
 * code . or atom . based on the text editor you have.
 
@@ -77,6 +77,8 @@ A Web application where customers order different sizes of pizzas with one or mo
 * CSS - which was used to style the pages incuding the left aside navigation bar
 
 * Javascript - Adding interactive behavior to web pages.
+
+* Laravel Framework 
 
 [Go Back to the top](#Amina-Mohammed-eComerce-shop)
 
